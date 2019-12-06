@@ -11,7 +11,7 @@ Your Company Name
  <access origin="*" /> 
  <preference name="DisallowOverscroll" value="true" /> 
  <preference name="android-minSdkVersion" value="14" /> 
- <preference name="phonegap-version" value="cli-6.3.0" /> 
+ <preference name="phonegap-version" value="cli-6.5.0" /> 
  <preference name="orientation" value="default" /> 
  
  <plugin name="cordova-plugin-splashscreen" source="npm" spec="~3.2.1" /> 
